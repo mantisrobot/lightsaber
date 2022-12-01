@@ -1,15 +1,19 @@
 # minifig_lightsaber
 Giant Scale Minifig Lightsaber Source
 
+This source includes two libraries that have not been written byt me. The FlashStorage library and the samd21 audio library. However, I have made changes to tbe audio library to include a loop sample function.
+
 Check out the origonal build video here:
-https://youtu.be/OPCm9aoIxUs
+
+[![Build Video]
+(https://img.youtu.be/vi/OPCm9aoIxUs/maxresdefault.jpg)]
+(https://youtu.be/OPCm9aoIxUs)
 
 ![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
 
 Suport my channel by purchaseing the STL files here:
-https://www.threeding.com/category/all?keyword=mantisrobot
+https://www.threeding.com/3d-model/14297-giant-scale-minifig-light-saber
 
-This source includes two libraries that have not been written byt me. The FlashStorage library and the samd21 audio library. However, I have made changes to tbe audio library to include a loop sample function.
 
 Mifig Light Saber Schematic:
 ![alt text](https://github.com/mantisrobot/lightsaber/blob/main/shematic/Saber_bb.jpg?raw=true "Schematic")
@@ -39,4 +43,5 @@ SOT-23 Breakout PCB: https://amzn.to/3GSifDI
 3.7V 18650 LiPo Battery: https://shop.pimoroni.com/products/lithium-ion-battery-pack?variant=23417820359
 Polymaker PLA Grey 1.75mm: https://amzn.to/3EUrOPH
 Polymaker PLA Grey 2.85mm: https://amzn.to/3H1n912
+Acrylic Tube 32x28x500mm (requires cutting down): https://amzn.to/3Uq9hAF
 
