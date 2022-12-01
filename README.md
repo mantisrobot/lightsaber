@@ -3,17 +3,15 @@ Giant Scale Minifig Lightsaber Source
 
 This source includes two libraries that have not been written byt me. The FlashStorage library and the samd21 audio library. However, I have made changes to tbe audio library to include a loop sample function.
 
-Check out the origonal build video here:
-
-[![Watch the video](https://github.com/mantisrobot/lightsaber/blob/main/E50_LEGO_SABER.jpg)](https://youtu.be/OPCm9aoIxUs)
-
 ![Lightsaber](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
+
+Check out the origonal build video here:
+[![Watch the video](https://github.com/mantisrobot/lightsaber/blob/main/E50_LEGO_SABER.jpg)](https://youtu.be/OPCm9aoIxUs)
 
 Suport my channel by purchaseing the STL files here:
 https://www.threeding.com/3d-model/14297-giant-scale-minifig-light-saber
 
-
-Mifig Light Saber Schematic:
+Minifig Light Saber Schematic:
 ![schematic](https://github.com/mantisrobot/lightsaber/blob/main/shematic/Saber_bb.jpg?raw=true "Schematic")
 
 *********************************
