@@ -4,7 +4,7 @@ Giant Scale Minifig Lightsaber Source
 Check out the origonal build video here:
 https://youtu.be/OPCm9aoIxUs
 
-![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad_saber.jpg?raw=true "Minifig Lightsaber")
+![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
 
 Suport my channel by purchaseing the STL files here:
 https://www.threeding.com/category/all?keyword=mantisrobot
