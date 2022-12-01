@@ -5,9 +5,8 @@ This source includes two libraries that have not been written byt me. The FlashS
 
 Check out the origonal build video here:
 
-[![Build Video]
-(https://img.youtu.be/vi/OPCm9aoIxUs/maxresdefault.jpg)]
-(https://youtu.be/OPCm9aoIxUs)
+[![Build Video](https://img.youtube.com/vi/OPCm9aoIxUs/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=OPCm9aoIxUs)
 
 ![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
 
