@@ -6,7 +6,7 @@ https://youtu.be/OPCm9aoIxUs
 
 ![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad_saber.jpg?raw=true "Minifig Lightsaber")
 
-Suuport my channel by purchaseing the STL files here:
+Suport my channel by purchaseing the STL files here:
 https://www.threeding.com/category/all?keyword=mantisrobot
 
 This source includes two libraries that have not been written byt me. The FlashStorage library and the samd21 audio library. However, I have made changes to tbe audio library to include a loop sample function.
