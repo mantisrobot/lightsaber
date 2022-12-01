@@ -5,17 +5,17 @@ This source includes two libraries that have not been written byt me. The FlashS
 
 Check out the origonal build video here:
 
-[![Build Video](https://img.youtube.com/vi/OPCm9aoIxUs/maxresdefault.jpg)]
+![Build Video](https://img.youtube.com/vi/OPCm9aoIxUs/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=OPCm9aoIxUs)
 
-![alt text](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
+![Lightsaber](https://github.com/mantisrobot/lightsaber/blob/main/cad%20saber.jpg?raw=true "Minifig Lightsaber")
 
 Suport my channel by purchaseing the STL files here:
 https://www.threeding.com/3d-model/14297-giant-scale-minifig-light-saber
 
 
 Mifig Light Saber Schematic:
-![alt text](https://github.com/mantisrobot/lightsaber/blob/main/shematic/Saber_bb.jpg?raw=true "Schematic")
+![schematic](https://github.com/mantisrobot/lightsaber/blob/main/shematic/Saber_bb.jpg?raw=true "Schematic")
 
 *********************************
 Amazon Parts US Links:
