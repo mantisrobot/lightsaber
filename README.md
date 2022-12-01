@@ -5,6 +5,7 @@ This source includes two libraries that have not been written byt me. The FlashS
 
 Check out the origonal build video here:
 
+{% include youtube.html id="OPCm9aoIxUs" %}
 ![Build Video](https://img.youtube.com/vi/OPCm9aoIxUs/maxresdefault.jpg)
 (https://www.youtube.com/watch?v=OPCm9aoIxUs)
 
