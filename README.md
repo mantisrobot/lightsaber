@@ -1,8 +1,12 @@
 # minifig_lightsaber
 Giant Scale Minifig Lightsaber Source
 
-STL files can be purcahsed here:
-
-
-Build video here:
+Check out the origonal build video here:
 https://youtu.be/OPCm9aoIxUs
+
+Suuport my channel by purchaseing the STL files here:
+https://www.threeding.com/category/all?keyword=mantisrobot
+
+This source includes two libraries that have not been written byt me. The FlashStorage library and the samd21 audio library. However, I have made changes to tbe audio library to include a loop sample function.
+
+
