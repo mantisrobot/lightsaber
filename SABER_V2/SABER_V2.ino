@@ -16,10 +16,12 @@
 // sound distortion produced is acceptable and actually quite good!
 
 
-// this option does not playback sound, just uysed during development
+// this option does not playback sound, just used during development
 //#define MUTE_MODE
 
 // do not sleep when debuging / developing
+// Once the device enters sleep mode, you will not be able to program the device from the arduino IDE without
+// power cycling the device. This mode stops the device from going into a full sleep while developing code.
 //#define DEBUG_NO_SLEEP_MODE
 
 #define USE_INTERRUPT_PIN
@@ -32,6 +34,9 @@
 #define STRIP_LED_COUNT 42
 
 // boot delay useful when developing
+// This boot delay gives time for the device to be programmed after applying power.
+// Once the device goes to sleep programming can not take effect unless a power cycle is inititated.
+// See DEBUG_NO_SLEEP_MODE option above for further development mode option.
 #define BOOT_TIME_WAIT  30000 // mili seconds
 
 
