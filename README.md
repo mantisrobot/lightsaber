@@ -14,7 +14,7 @@ https://www.threeding.com/3d-model/14297-giant-scale-minifig-light-saber
 Minifig Light Saber Schematic:
 ![schematic](https://github.com/mantisrobot/lightsaber/blob/main/shematic/Saber_bb.jpg?raw=true "Schematic")
 
-# Arduino Project
+## Arduino Project
 The arduino audio library has been modified to add a loopAudio() function. I have included my version of the library in the LIBS directory. You will need to copy the audio libray directory to your arduino libray directory.
 
 ## Parts List
